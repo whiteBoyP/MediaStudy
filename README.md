@@ -1,17 +1,15 @@
 # MediaStudy
-MediaStudy , haha .
 
 
+MediaStudy , haha .<br />
 
-这是一个自学项目！\r
-\r
-\r
-学习使用媒体库的时候更新！\r
+<br /><br />
 
+这是一个自学项目！<br />
 
-\r
-\r
-谢谢！\r
+<br /><br />
+
+谢谢!<br />
 
 
 
