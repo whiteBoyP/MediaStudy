@@ -27,8 +27,6 @@
 
 
 
-
-
 @property (nonatomic,strong) IBOutlet UIView * toolView;
 
 @property (nonatomic,strong) UIToolbar * toolBar;
